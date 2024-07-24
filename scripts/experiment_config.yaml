@@ -1,0 +1,13 @@
+dataset: 
+
+Ncycles:
+newBatch: 
+
+clfModel: 
+kParam1: 
+kParam2: 
+
+acqMode: 
+entropyDecimals: 
+
+screeningSelection: 
